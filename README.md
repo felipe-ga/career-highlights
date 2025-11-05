@@ -8,3 +8,4 @@ These articles were originally published on [LinkedIn](https://www.linkedin.com/
 - [Elasticsearch Under Pressure: A Quick Fix That Worked](https://www.linkedin.com/pulse/elasticsearch-under-pressure-quick-fix-worked-galindo-aguilar-zxsfe/)
 - [The Hidden Impact of Keep-Alive Settings in Microservices](https://www.linkedin.com/pulse/hidden-impact-keep-alive-settings-microservices-galindo-aguilar-n7pie/)
 - [Enhancing Observability: Implementing ECS and APM for Java Service Logs](https://www.linkedin.com/pulse/enhancing-observability-implementing-ecs-apm-java-galindo-aguilar-qjuae)
+- [Lessons Learned from Working with Cross-Account in AWS](https://www.linkedin.com/pulse/lessons-learned-from-working-cross-account-aws-galindo-aguilar-lzdhe)
